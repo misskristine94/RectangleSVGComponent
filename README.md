@@ -1,5 +1,7 @@
 # RectangleSVGComponent
-RectangleSVGComponent
+
+![image](https://user-images.githubusercontent.com/86930618/162580500-b0d4b8e0-ad7c-4dc9-8dde-ea75f2e69d44.png)
+
 
 Rectangle progress component for your canvas app!
 
